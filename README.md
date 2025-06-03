@@ -1,6 +1,6 @@
 <!-- Profile README for TejasTeju-dev -->
 
-<h1 align="center">Hi 👋, I'm Tejas Prakash D</h1>
+<h1 align="center">Hi 👋, I'm TEJAS PRAKASH D</h1>
 <p align="center">
   <em>AI-Engineer | Data Scientist | Machine Learning | Deep Learning | NLP | Gen-AI | AI-Cloud Orchestrations | Java Spring Boot | AI & Cloud Architect | Microservices | MLOps & DevOps</em>
 </p>
@@ -58,16 +58,6 @@ Let's connect and explore how my expertise in data science can contribute to dri
 - Tableau, PowerBI, Google Data Studio, Looker, MS Excel  
 - Grafana, Qlik Sense, Alteryx, Microsoft SQL Studio
 </details>
-
----
-
-## 🌟 Headline
-
-```text
-AI-Engineer | Data Scientist | Machine Learning | Deep Learning | NLP | Gen-AI | AI-Cloud Orchestrations | Java Spring Boot | AI & Cloud Architect | Microservices | MLOps & DevOps
-```
-
----
 
 ## 📫 Connect with Me
 
